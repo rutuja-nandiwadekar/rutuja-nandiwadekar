@@ -1,7 +1,7 @@
 
 
 ## Hey 👋, This is Rutuja Nandiwadekar
-[![Gmail Badge](https://img.shields.io/badge/-nandiwadekarrutuja@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:nandiwadekarrutuja@gmail.com)](mailto:nandiwadekarrutuja@gmail.com) [![Github Badge](https://img.shields.io/badge/rutuja-nandiwadekar-grey?style=flat&logo=github&logoColor=white&link=https://github.com/rutuja-nandiwadekar/)](https://www.github.com/rutuja-nandiwadekar/) 
+[![Gmail Badge](https://img.shields.io/badge/-nandiwadekarrutuja@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:nandiwadekarrutuja@gmail.com)](mailto:nandiwadekarrutuja@gmail.com) [![Github Badge](https://img.shields.io/badge/rutuja-nandiwadekar-grey?style=flat&logo=github&logoColor=white&link=https://github.com/rutuja-nandiwadekar/)](https://www.github.com/rutuja-nandiwadekar/) [![Linkedin Badge](https://img.shields.io/badge/RutujaNandiwadekar-00acee?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rutuja-nandiwadekar-aaa9a11b1/)](https://www.linkedin.com/in/rutuja-nandiwadekar-aaa9a11b1/)
 <p align='left'>Passionate Software Engineer looking forward for opportunities in Java , Full stack developer, open for opportunities.
 <br /> Proficient in Java, JavaScript, HTML, CSS, Shell Scripting, and more. Currently on track for learning trending technologies.
 <br /> Interests <b>Web Development</b>
